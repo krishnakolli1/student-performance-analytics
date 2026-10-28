@@ -1,0 +1,501 @@
+Student_ID,Gender,Study_Hours_Per_Week,Attendance_Percent,Previous_Score,Extracurricular_Activities,Math_Score,Science_Score,English_Score,Average_Score,Performance_Level
+S0001,Female,4,91,69,Yes,59.0,47.7,50.2,52.3,Average
+S0002,Male,20,87,52,No,45.7,39.6,50.0,45.1,Needs Improvement
+S0003,Male,29,78,50,Yes,51.5,52.1,55.2,52.93,Average
+S0004,Female,27,95,56,Yes,67.0,59.1,64.2,63.43,Average
+S0005,Female,9,56,74,No,49.9,49.4,55.2,51.5,Average
+S0006,Male,14,96,51,Yes,56.8,47.2,43.8,49.27,Average
+S0007,Female,16,93,95,No,60.7,55.5,67.5,61.23,Average
+S0008,Male,8,75,66,Yes,36.7,47.9,33.3,39.3,Needs Improvement
+S0009,Female,9,87,91,No,46.4,54.7,61.6,54.23,Average
+S0010,Female,8,76,80,No,44.8,39.4,39.1,41.1,Needs Improvement
+S0011,Male,30,63,57,No,58.9,56.9,66.7,60.83,Average
+S0012,Male,23,90,50,No,65.3,63.9,67.1,65.43,Average
+S0013,Male,26,62,84,No,66.3,68.2,65.4,66.63,Average
+S0014,Male,25,66,56,No,49.9,42.7,34.5,42.37,Needs Improvement
+S0015,Male,29,76,51,Yes,49.1,51.3,59.2,53.2,Average
+S0016,Male,4,92,96,Yes,63.9,58.8,60.4,61.03,Average
+S0017,Male,27,69,66,No,65.5,62.5,74.0,67.33,Average
+S0018,Female,2,75,38,No,23.5,23.7,21.2,22.8,Needs Improvement
+S0019,Male,15,52,67,Yes,56.4,51.4,41.7,49.83,Average
+S0020,Female,18,55,65,Yes,68.0,62.3,78.3,69.53,Good
+S0021,Male,11,52,92,No,58.8,72.1,57.1,62.67,Average
+S0022,Female,5,53,81,No,46.2,43.1,59.4,49.57,Average
+S0023,Female,6,94,47,No,45.9,47.4,44.5,45.93,Needs Improvement
+S0024,Male,25,92,44,No,59.3,60.8,62.6,60.9,Average
+S0025,Male,10,91,74,No,57.4,62.1,54.9,58.13,Average
+S0026,Male,10,52,38,Yes,25.8,26.9,25.1,25.93,Needs Improvement
+S0027,Female,28,53,56,No,63.7,63.1,63.5,63.43,Average
+S0028,Male,5,64,44,Yes,19.0,31.2,33.9,28.03,Needs Improvement
+S0029,Male,28,78,36,No,51.5,68.1,58.5,59.37,Average
+S0030,Female,28,67,95,Yes,64.3,73.8,82.1,73.4,Good
+S0031,Female,18,74,40,No,44.7,48.5,45.8,46.33,Needs Improvement
+S0032,Female,5,58,35,No,34.4,25.0,40.3,33.23,Needs Improvement
+S0033,Female,5,87,96,No,56.0,60.5,54.0,56.83,Average
+S0034,Male,9,66,47,No,38.3,25.5,45.9,36.57,Needs Improvement
+S0035,Male,18,53,88,Yes,56.2,64.3,52.7,57.73,Average
+S0036,Female,5,87,37,No,32.6,47.6,25.3,35.17,Needs Improvement
+S0037,Male,14,96,45,Yes,55.7,52.6,46.3,51.53,Average
+S0038,Male,4,50,42,Yes,20.6,3.7,35.2,19.83,Needs Improvement
+S0039,Female,17,72,81,Yes,61.9,61.3,70.6,64.6,Average
+S0040,Male,1,92,75,Yes,56.1,50.5,38.6,48.4,Needs Improvement
+S0041,Female,22,86,66,Yes,54.5,62.1,65.2,60.6,Average
+S0042,Male,2,93,50,No,32.7,39.3,41.5,37.83,Needs Improvement
+S0043,Male,6,71,40,No,50.2,55.2,58.9,54.77,Average
+S0044,Female,6,68,72,No,51.4,53.5,40.4,48.43,Needs Improvement
+S0045,Female,25,86,50,Yes,47.5,67.0,55.7,56.73,Average
+S0046,Male,2,57,73,Yes,53.2,52.7,42.6,49.5,Average
+S0047,Female,13,62,80,Yes,36.4,49.2,25.2,36.93,Needs Improvement
+S0048,Male,18,80,91,No,58.1,68.8,72.3,66.4,Average
+S0049,Male,16,84,67,No,81.6,80.5,71.6,77.9,Good
+S0050,Male,21,56,35,Yes,48.5,41.7,48.5,46.23,Needs Improvement
+S0051,Male,25,75,53,No,49.0,53.0,72.0,58.0,Average
+S0052,Female,12,68,91,Yes,75.3,76.5,60.7,70.83,Good
+S0053,Female,25,75,70,Yes,75.0,72.1,67.9,71.67,Good
+S0054,Female,10,98,75,Yes,42.7,49.2,43.5,45.13,Needs Improvement
+S0055,Female,30,53,65,Yes,57.7,47.5,52.5,52.57,Average
+S0056,Female,16,100,45,No,56.3,50.5,51.8,52.87,Average
+S0057,Male,23,72,94,No,63.4,63.7,59.8,62.3,Average
+S0058,Female,27,89,86,Yes,79.8,95.9,90.8,88.83,Excellent
+S0059,Male,24,71,100,No,73.5,73.9,71.7,73.03,Good
+S0060,Male,26,65,91,No,56.8,39.7,41.2,45.9,Needs Improvement
+S0061,Male,17,89,54,No,44.7,42.9,37.3,41.63,Needs Improvement
+S0062,Male,2,85,51,No,13.2,33.0,27.7,24.63,Needs Improvement
+S0063,Female,15,57,51,Yes,43.1,40.5,44.6,42.73,Needs Improvement
+S0064,Male,6,85,95,No,57.3,43.4,53.2,51.3,Average
+S0065,Female,27,88,71,Yes,55.7,80.2,64.0,66.63,Average
+S0066,Female,8,69,64,No,44.4,60.1,54.8,53.1,Average
+S0067,Male,7,97,98,Yes,77.7,73.2,78.2,76.37,Good
+S0068,Female,8,82,74,No,33.2,48.5,43.3,41.67,Needs Improvement
+S0069,Female,20,67,95,Yes,50.4,57.6,43.9,50.63,Average
+S0070,Female,18,50,99,Yes,63.1,62.2,68.1,64.47,Average
+S0071,Male,29,84,40,No,71.8,71.8,62.0,68.53,Average
+S0072,Female,13,60,58,No,44.7,52.5,51.6,49.6,Average
+S0073,Female,9,88,83,Yes,70.7,68.1,58.7,65.83,Average
+S0074,Female,2,76,88,No,39.3,43.2,44.2,42.23,Needs Improvement
+S0075,Male,1,73,44,No,51.3,49.1,57.1,52.5,Average
+S0076,Female,12,58,56,Yes,41.2,44.4,38.9,41.5,Needs Improvement
+S0077,Female,28,86,71,No,71.5,67.8,75.6,71.63,Good
+S0078,Female,16,58,87,No,51.2,31.3,43.7,42.07,Needs Improvement
+S0079,Male,27,71,42,No,39.7,51.5,41.6,44.27,Needs Improvement
+S0080,Male,4,92,74,Yes,66.3,69.3,63.8,66.47,Average
+S0081,Male,3,96,54,Yes,49.7,47.1,50.8,49.2,Average
+S0082,Female,26,100,49,No,74.3,72.9,69.0,72.07,Good
+S0083,Female,4,98,69,No,67.2,51.2,48.4,55.6,Average
+S0084,Male,2,78,62,No,36.6,48.3,39.0,41.3,Needs Improvement
+S0085,Male,13,60,76,No,53.3,62.5,64.1,59.97,Average
+S0086,Male,28,92,55,No,55.8,58.9,60.5,58.4,Average
+S0087,Female,21,90,89,No,60.8,53.7,59.1,57.87,Average
+S0088,Female,3,100,40,No,38.5,51.1,38.1,42.57,Needs Improvement
+S0089,Male,26,83,91,No,78.5,63.9,83.1,75.17,Good
+S0090,Male,26,57,36,No,43.0,54.8,59.4,52.4,Average
+S0091,Female,25,75,83,Yes,60.6,41.8,61.2,54.53,Average
+S0092,Male,28,72,57,No,46.0,53.7,48.9,49.53,Average
+S0093,Male,8,92,60,Yes,53.9,42.3,40.3,45.5,Needs Improvement
+S0094,Female,30,70,36,Yes,71.2,34.5,50.7,52.13,Average
+S0095,Male,10,66,81,No,44.4,45.0,39.1,42.83,Needs Improvement
+S0096,Female,25,54,45,Yes,48.3,41.2,37.4,42.3,Needs Improvement
+S0097,Female,18,92,78,Yes,55.4,42.1,56.2,51.23,Average
+S0098,Male,24,88,82,No,63.4,82.8,73.2,73.13,Good
+S0099,Male,19,52,90,No,62.0,77.7,62.1,67.27,Average
+S0100,Female,20,72,81,Yes,53.5,73.1,59.3,61.97,Average
+S0101,Male,19,74,54,Yes,39.3,52.3,56.5,49.37,Average
+S0102,Female,24,73,83,Yes,79.7,68.0,68.8,72.17,Good
+S0103,Male,23,96,89,No,68.9,77.6,81.8,76.1,Good
+S0104,Female,5,57,55,No,31.0,41.8,29.3,34.03,Needs Improvement
+S0105,Male,25,65,43,Yes,41.6,52.8,42.0,45.47,Needs Improvement
+S0106,Male,17,59,93,No,54.6,48.3,55.8,52.9,Average
+S0107,Male,10,62,44,Yes,36.3,31.2,31.1,32.87,Needs Improvement
+S0108,Male,16,96,74,Yes,63.8,67.5,66.6,65.97,Average
+S0109,Female,30,97,50,No,75.3,57.1,84.0,72.13,Good
+S0110,Male,26,52,43,Yes,34.8,39.9,31.1,35.27,Needs Improvement
+S0111,Female,26,82,86,Yes,69.2,89.8,76.8,78.6,Good
+S0112,Male,14,61,44,Yes,30.2,45.2,41.3,38.9,Needs Improvement
+S0113,Male,24,59,79,No,50.5,76.1,54.9,60.5,Average
+S0114,Female,12,64,80,No,51.7,55.0,58.1,54.93,Average
+S0115,Male,21,59,38,No,33.6,32.6,40.8,35.67,Needs Improvement
+S0116,Male,20,75,46,Yes,31.7,43.8,35.6,37.03,Needs Improvement
+S0117,Female,8,100,87,Yes,61.8,55.6,62.0,59.8,Average
+S0118,Female,8,79,68,No,58.6,50.5,47.8,52.3,Average
+S0119,Female,2,86,43,Yes,5.3,30.6,12.9,16.27,Needs Improvement
+S0120,Female,5,75,100,No,54.1,71.5,66.8,64.13,Average
+S0121,Female,14,50,52,No,54.3,43.5,48.6,48.8,Needs Improvement
+S0122,Male,15,54,35,Yes,39.2,44.3,29.9,37.8,Needs Improvement
+S0123,Male,5,63,95,No,49.3,56.7,58.8,54.93,Average
+S0124,Female,13,62,36,Yes,34.0,35.6,29.7,33.1,Needs Improvement
+S0125,Male,19,92,71,Yes,69.3,65.8,59.3,64.8,Average
+S0126,Male,7,93,100,No,56.3,58.8,55.3,56.8,Average
+S0127,Female,11,93,73,No,38.2,39.5,31.9,36.53,Needs Improvement
+S0128,Male,12,82,73,No,59.9,74.5,57.8,64.07,Average
+S0129,Male,16,78,60,No,41.0,47.9,46.3,45.07,Needs Improvement
+S0130,Male,11,83,43,No,44.2,45.9,46.8,45.63,Needs Improvement
+S0131,Male,23,70,72,No,51.4,43.3,57.4,50.7,Average
+S0132,Male,10,84,94,No,55.0,67.9,46.6,56.5,Average
+S0133,Female,14,90,41,Yes,47.6,50.4,52.3,50.1,Average
+S0134,Male,12,88,93,No,64.0,64.0,53.6,60.53,Average
+S0135,Male,6,81,62,No,50.4,36.9,60.7,49.33,Average
+S0136,Female,21,52,70,Yes,63.4,51.3,51.1,55.27,Average
+S0137,Male,8,86,45,No,52.3,56.1,54.2,54.2,Average
+S0138,Female,9,68,76,Yes,47.1,55.0,48.8,50.3,Average
+S0139,Female,24,87,47,Yes,57.4,54.7,82.1,64.73,Average
+S0140,Female,29,77,53,No,63.3,60.8,56.0,60.03,Average
+S0141,Male,21,94,82,Yes,70.4,64.2,62.5,65.7,Average
+S0142,Female,28,67,38,No,49.5,72.8,58.4,60.23,Average
+S0143,Female,26,97,64,No,72.6,76.9,82.3,77.27,Good
+S0144,Female,15,93,74,No,55.2,51.4,56.1,54.23,Average
+S0145,Male,24,66,43,Yes,46.3,57.7,47.8,50.6,Average
+S0146,Male,10,74,54,Yes,52.7,49.1,56.5,52.77,Average
+S0147,Female,14,77,57,No,64.3,46.5,59.0,56.6,Average
+S0148,Female,17,89,78,No,57.4,63.1,65.5,62.0,Average
+S0149,Male,29,85,99,No,71.8,84.0,69.6,75.13,Good
+S0150,Female,26,93,90,No,74.0,61.8,67.6,67.8,Average
+S0151,Male,15,68,47,Yes,50.5,34.4,49.2,44.7,Needs Improvement
+S0152,Female,20,75,36,No,48.8,51.9,52.6,51.1,Average
+S0153,Male,7,71,38,Yes,42.7,31.5,46.0,40.07,Needs Improvement
+S0154,Female,25,96,74,Yes,71.9,67.4,75.2,71.5,Good
+S0155,Female,17,65,45,No,43.6,25.3,41.9,36.93,Needs Improvement
+S0156,Male,16,79,50,Yes,52.5,48.9,58.8,53.4,Average
+S0157,Female,23,56,90,Yes,87.7,87.2,83.2,86.03,Excellent
+S0158,Male,19,93,92,Yes,57.2,63.9,55.5,58.87,Average
+S0159,Male,3,69,90,Yes,55.2,47.6,48.8,50.53,Average
+S0160,Male,9,67,51,No,41.1,49.0,28.2,39.43,Needs Improvement
+S0161,Male,6,79,75,Yes,59.3,49.9,57.4,55.53,Average
+S0162,Male,23,75,75,No,64.1,58.3,64.9,62.43,Average
+S0163,Female,2,93,47,No,41.7,59.7,51.5,50.97,Average
+S0164,Female,7,77,71,Yes,59.6,60.8,62.4,60.93,Average
+S0165,Female,18,76,69,Yes,58.9,54.7,60.5,58.03,Average
+S0166,Male,21,55,61,No,62.3,59.7,64.3,62.1,Average
+S0167,Female,16,51,84,No,51.6,47.0,35.9,44.83,Needs Improvement
+S0168,Female,26,70,79,No,75.0,90.4,81.2,82.2,Good
+S0169,Female,28,100,70,No,77.9,68.4,70.5,72.27,Good
+S0170,Female,4,96,82,Yes,72.0,64.2,66.7,67.63,Average
+S0171,Female,29,82,85,Yes,64.4,64.4,67.7,65.5,Average
+S0172,Female,19,82,72,No,70.6,46.4,50.2,55.73,Average
+S0173,Male,20,69,52,Yes,50.0,52.2,52.9,51.7,Average
+S0174,Male,3,59,85,No,49.0,46.8,43.0,46.27,Needs Improvement
+S0175,Male,19,50,82,No,53.1,67.8,55.5,58.8,Average
+S0176,Female,22,67,99,No,75.2,87.3,70.9,77.8,Good
+S0177,Male,18,66,44,No,33.9,29.5,39.8,34.4,Needs Improvement
+S0178,Female,3,59,62,Yes,52.6,44.9,53.0,50.17,Average
+S0179,Male,16,63,95,Yes,64.1,67.2,65.1,65.47,Average
+S0180,Male,29,51,68,Yes,66.9,53.4,70.0,63.43,Average
+S0181,Male,22,81,97,No,59.4,64.7,58.9,61.0,Average
+S0182,Female,5,97,35,Yes,42.2,43.8,62.7,49.57,Average
+S0183,Female,29,85,37,Yes,57.0,30.3,36.7,41.33,Needs Improvement
+S0184,Male,29,72,87,Yes,79.6,69.2,78.4,75.73,Good
+S0185,Female,6,71,58,Yes,25.9,42.5,28.5,32.3,Needs Improvement
+S0186,Female,25,65,69,No,56.0,59.6,63.1,59.57,Average
+S0187,Female,13,57,63,Yes,39.1,58.9,50.8,49.6,Average
+S0188,Female,18,80,61,No,71.7,61.0,64.4,65.7,Average
+S0189,Female,14,78,97,Yes,60.7,65.6,73.9,66.73,Average
+S0190,Female,24,50,41,No,41.4,59.6,41.9,47.63,Needs Improvement
+S0191,Male,30,71,85,Yes,67.0,59.0,69.1,65.03,Average
+S0192,Male,24,64,93,Yes,83.1,62.8,72.5,72.8,Good
+S0193,Male,28,58,78,No,62.6,78.8,71.0,70.8,Good
+S0194,Female,29,85,61,No,55.2,56.1,61.9,57.73,Average
+S0195,Male,3,76,45,No,36.8,35.1,31.6,34.5,Needs Improvement
+S0196,Female,8,82,80,Yes,46.6,37.7,37.7,40.67,Needs Improvement
+S0197,Female,22,86,65,Yes,67.3,67.1,81.0,71.8,Good
+S0198,Female,18,100,44,No,35.1,33.1,39.1,35.77,Needs Improvement
+S0199,Female,2,90,58,Yes,55.2,49.0,41.7,48.63,Needs Improvement
+S0200,Male,3,81,98,No,52.8,61.6,53.8,56.07,Average
+S0201,Female,16,94,52,No,69.9,65.5,73.3,69.57,Good
+S0202,Male,19,74,46,No,34.4,35.4,44.3,38.03,Needs Improvement
+S0203,Female,6,100,80,No,66.1,54.2,60.3,60.2,Average
+S0204,Male,6,88,48,No,62.4,46.6,62.0,57.0,Average
+S0205,Female,4,83,95,Yes,71.0,63.4,62.9,65.77,Average
+S0206,Female,17,96,91,Yes,72.6,64.8,65.9,67.77,Average
+S0207,Male,1,76,99,No,75.9,53.0,51.0,59.97,Average
+S0208,Male,18,86,95,No,57.2,67.0,65.4,63.2,Average
+S0209,Female,15,64,51,Yes,42.9,47.9,42.6,44.47,Needs Improvement
+S0210,Male,14,99,49,Yes,43.2,42.3,40.4,41.97,Needs Improvement
+S0211,Female,21,81,57,No,50.3,61.8,62.7,58.27,Average
+S0212,Male,16,89,66,No,37.8,56.9,49.5,48.07,Needs Improvement
+S0213,Male,22,73,93,No,67.4,65.8,75.3,69.5,Good
+S0214,Female,23,94,83,Yes,66.0,78.4,74.8,73.07,Good
+S0215,Male,28,53,77,Yes,63.1,58.9,65.4,62.47,Average
+S0216,Female,24,55,92,No,52.6,55.2,41.7,49.83,Average
+S0217,Female,16,75,77,Yes,69.8,78.9,71.6,73.43,Good
+S0218,Female,15,87,60,No,61.2,61.7,58.7,60.53,Average
+S0219,Female,8,91,62,No,49.3,30.9,48.8,43.0,Needs Improvement
+S0220,Male,18,72,69,Yes,51.7,57.9,56.6,55.4,Average
+S0221,Female,5,83,40,Yes,41.6,36.6,20.8,33.0,Needs Improvement
+S0222,Female,28,78,83,Yes,64.4,61.0,53.8,59.73,Average
+S0223,Male,26,99,78,No,55.5,76.5,64.3,65.43,Average
+S0224,Female,4,83,83,No,55.8,57.3,66.2,59.77,Average
+S0225,Male,24,71,70,Yes,44.2,44.4,60.5,49.7,Average
+S0226,Female,4,99,86,No,63.3,64.3,55.0,60.87,Average
+S0227,Male,22,55,97,No,60.1,46.9,55.1,54.03,Average
+S0228,Male,3,100,72,No,51.3,52.7,50.2,51.4,Average
+S0229,Male,15,57,64,No,61.6,57.8,45.4,54.93,Average
+S0230,Female,20,64,41,Yes,57.2,38.1,45.2,46.83,Needs Improvement
+S0231,Female,22,91,86,Yes,71.3,55.9,57.6,61.6,Average
+S0232,Male,13,87,94,No,46.0,44.2,47.5,45.9,Needs Improvement
+S0233,Female,28,99,81,Yes,57.5,63.9,65.0,62.13,Average
+S0234,Male,24,88,92,No,69.4,66.2,62.1,65.9,Average
+S0235,Female,7,82,91,Yes,49.2,59.2,47.3,51.9,Average
+S0236,Male,21,67,87,Yes,54.3,74.9,73.6,67.6,Average
+S0237,Male,22,50,68,Yes,48.9,54.1,42.4,48.47,Needs Improvement
+S0238,Female,11,56,41,Yes,56.2,57.3,54.9,56.13,Average
+S0239,Female,23,65,35,Yes,31.5,36.1,39.1,35.57,Needs Improvement
+S0240,Male,27,52,48,Yes,47.3,46.1,50.5,47.97,Needs Improvement
+S0241,Female,25,75,63,No,48.0,58.6,48.3,51.63,Average
+S0242,Male,23,89,84,Yes,64.9,57.2,73.1,65.07,Average
+S0243,Female,20,99,65,Yes,65.3,71.3,62.8,66.47,Average
+S0244,Male,9,74,36,Yes,23.9,29.2,26.3,26.47,Needs Improvement
+S0245,Male,24,94,48,Yes,69.0,63.1,64.0,65.37,Average
+S0246,Female,11,100,99,Yes,81.6,82.3,81.6,81.83,Good
+S0247,Male,16,93,100,No,64.2,70.6,70.3,68.37,Average
+S0248,Female,10,73,59,Yes,52.0,26.1,50.9,43.0,Needs Improvement
+S0249,Male,10,66,88,No,67.8,65.9,69.6,67.77,Average
+S0250,Female,5,99,82,No,53.1,55.2,52.8,53.7,Average
+S0251,Female,29,62,96,Yes,73.2,67.2,67.9,69.43,Good
+S0252,Female,5,70,93,Yes,42.7,41.5,35.5,39.9,Needs Improvement
+S0253,Female,3,53,76,Yes,56.4,46.8,51.6,51.6,Average
+S0254,Female,29,90,61,No,78.6,57.0,60.0,65.2,Average
+S0255,Male,17,83,76,Yes,46.8,51.7,59.0,52.5,Average
+S0256,Female,14,54,56,No,45.4,45.9,48.1,46.47,Needs Improvement
+S0257,Male,23,61,57,No,49.0,49.9,41.0,46.63,Needs Improvement
+S0258,Female,12,78,75,No,50.4,52.4,58.4,53.73,Average
+S0259,Female,4,77,72,No,48.0,60.8,65.9,58.23,Average
+S0260,Male,22,90,73,No,44.5,46.3,61.0,50.6,Average
+S0261,Male,6,63,60,Yes,50.6,51.3,58.5,53.47,Average
+S0262,Female,17,97,62,Yes,43.0,58.7,48.9,50.2,Average
+S0263,Female,29,72,35,Yes,48.8,34.3,38.2,40.43,Needs Improvement
+S0264,Male,29,91,74,No,81.7,88.7,76.2,82.2,Good
+S0265,Male,11,62,73,No,51.2,54.2,60.4,55.27,Average
+S0266,Male,24,51,96,No,68.0,63.4,62.8,64.73,Average
+S0267,Female,19,52,68,Yes,45.5,37.2,39.0,40.57,Needs Improvement
+S0268,Female,15,69,65,No,51.8,46.4,47.4,48.53,Needs Improvement
+S0269,Male,5,98,39,No,58.0,57.5,46.4,53.97,Average
+S0270,Male,12,52,47,No,41.3,29.2,30.6,33.7,Needs Improvement
+S0271,Female,20,68,57,No,55.6,42.9,49.5,49.33,Average
+S0272,Female,30,55,59,Yes,50.6,47.7,67.2,55.17,Average
+S0273,Female,1,97,58,Yes,34.6,57.5,37.2,43.1,Needs Improvement
+S0274,Male,22,84,61,No,59.5,44.7,53.6,52.6,Average
+S0275,Female,26,88,85,Yes,62.0,68.2,65.5,65.23,Average
+S0276,Female,29,86,43,Yes,59.8,63.8,70.3,64.63,Average
+S0277,Female,13,83,56,Yes,39.5,32.2,46.4,39.37,Needs Improvement
+S0278,Male,4,89,45,Yes,39.1,37.8,44.1,40.33,Needs Improvement
+S0279,Female,9,50,55,No,26.1,52.1,37.8,38.67,Needs Improvement
+S0280,Female,26,94,80,No,71.1,84.3,66.3,73.9,Good
+S0281,Female,27,87,38,Yes,62.1,46.7,60.2,56.33,Average
+S0282,Female,20,87,57,Yes,63.9,74.7,64.4,67.67,Average
+S0283,Male,4,70,36,Yes,27.6,30.7,38.9,32.4,Needs Improvement
+S0284,Female,4,90,98,No,56.1,35.3,51.1,47.5,Needs Improvement
+S0285,Female,15,69,82,No,66.8,71.5,66.2,68.17,Average
+S0286,Male,18,52,51,No,34.7,48.3,41.1,41.37,Needs Improvement
+S0287,Female,1,96,48,Yes,25.9,45.4,31.9,34.4,Needs Improvement
+S0288,Male,21,61,41,Yes,43.7,45.2,40.8,43.23,Needs Improvement
+S0289,Male,17,55,66,No,46.1,45.2,51.8,47.7,Needs Improvement
+S0290,Female,1,81,84,No,65.8,63.6,58.7,62.7,Average
+S0291,Male,3,61,73,No,29.7,40.1,43.9,37.9,Needs Improvement
+S0292,Female,14,93,93,No,61.5,58.9,61.8,60.73,Average
+S0293,Male,22,72,57,No,55.0,37.3,41.9,44.73,Needs Improvement
+S0294,Female,25,50,53,Yes,29.9,47.4,52.3,43.2,Needs Improvement
+S0295,Male,13,98,66,Yes,74.0,75.4,64.6,71.33,Good
+S0296,Male,9,76,48,Yes,39.8,38.4,50.1,42.77,Needs Improvement
+S0297,Male,30,63,99,Yes,90.4,93.2,84.2,89.27,Excellent
+S0298,Female,14,84,47,Yes,68.5,69.4,76.7,71.53,Good
+S0299,Female,10,77,66,No,49.7,48.1,36.8,44.87,Needs Improvement
+S0300,Female,14,51,69,Yes,52.5,55.6,46.6,51.57,Average
+S0301,Female,1,88,38,Yes,10.0,21.1,27.3,19.47,Needs Improvement
+S0302,Male,10,70,65,No,36.5,29.1,35.5,33.7,Needs Improvement
+S0303,Female,16,85,65,No,52.7,47.5,53.7,51.3,Average
+S0304,Male,28,95,52,Yes,54.5,63.0,65.6,61.03,Average
+S0305,Male,23,81,43,No,48.6,40.9,42.3,43.93,Needs Improvement
+S0306,Female,24,84,37,No,57.5,46.4,54.4,52.77,Average
+S0307,Female,17,62,35,No,35.9,17.0,15.1,22.67,Needs Improvement
+S0308,Male,4,62,66,No,47.0,62.6,48.3,52.63,Average
+S0309,Female,12,71,40,Yes,21.1,40.6,32.1,31.27,Needs Improvement
+S0310,Female,30,93,98,No,100.0,100.0,99.1,99.7,Excellent
+S0311,Male,2,76,51,Yes,37.8,42.6,41.3,40.57,Needs Improvement
+S0312,Male,27,67,78,No,58.6,70.8,64.3,64.57,Average
+S0313,Female,21,89,79,No,60.8,54.4,55.3,56.83,Average
+S0314,Female,9,93,67,Yes,73.9,66.2,65.3,68.47,Average
+S0315,Female,24,96,93,Yes,85.6,81.3,73.2,80.03,Good
+S0316,Male,26,65,42,No,32.7,75.2,47.3,51.73,Average
+S0317,Male,2,86,50,No,20.9,34.3,35.6,30.27,Needs Improvement
+S0318,Male,4,80,51,Yes,55.9,39.0,30.1,41.67,Needs Improvement
+S0319,Male,20,72,43,No,36.3,43.8,35.5,38.53,Needs Improvement
+S0320,Male,30,70,54,No,58.2,64.0,69.7,63.97,Average
+S0321,Female,1,55,55,No,48.9,52.3,50.7,50.63,Average
+S0322,Female,20,64,85,No,62.6,57.2,67.1,62.3,Average
+S0323,Male,5,78,54,Yes,30.6,26.9,19.6,25.7,Needs Improvement
+S0324,Male,20,95,92,No,66.0,72.6,71.9,70.17,Good
+S0325,Male,19,94,85,Yes,77.2,77.0,69.5,74.57,Good
+S0326,Female,3,59,94,No,62.3,60.5,65.8,62.87,Average
+S0327,Female,21,84,41,Yes,65.9,61.1,52.9,59.97,Average
+S0328,Female,27,54,99,No,73.0,56.6,63.5,64.37,Average
+S0329,Female,26,84,75,Yes,77.3,65.8,68.0,70.37,Good
+S0330,Male,1,67,99,Yes,49.3,56.7,54.2,53.4,Average
+S0331,Male,8,72,58,No,34.6,43.3,30.1,36.0,Needs Improvement
+S0332,Female,8,86,97,No,69.8,60.9,63.5,64.73,Average
+S0333,Female,14,71,73,No,65.1,50.4,53.7,56.4,Average
+S0334,Male,5,91,39,No,35.0,33.9,41.3,36.73,Needs Improvement
+S0335,Female,26,77,62,No,55.1,55.7,43.4,51.4,Average
+S0336,Male,24,100,44,No,63.5,62.4,60.7,62.2,Average
+S0337,Male,25,82,97,Yes,89.8,76.3,74.5,80.2,Good
+S0338,Female,6,65,55,No,33.9,37.1,38.7,36.57,Needs Improvement
+S0339,Female,1,89,49,No,32.1,40.3,33.0,35.13,Needs Improvement
+S0340,Male,28,70,71,Yes,59.1,56.1,62.1,59.1,Average
+S0341,Male,9,77,63,Yes,44.8,46.1,51.5,47.47,Needs Improvement
+S0342,Female,20,56,41,No,41.7,55.6,60.3,52.53,Average
+S0343,Male,28,56,88,No,45.4,71.8,70.4,62.53,Average
+S0344,Male,2,79,90,No,46.5,41.7,55.4,47.87,Needs Improvement
+S0345,Male,1,59,84,No,48.3,38.8,64.2,50.43,Average
+S0346,Female,1,100,75,No,33.2,37.6,39.8,36.87,Needs Improvement
+S0347,Male,5,93,61,Yes,66.0,66.2,55.3,62.5,Average
+S0348,Male,2,85,70,Yes,47.4,32.0,51.6,43.67,Needs Improvement
+S0349,Female,25,87,69,Yes,75.3,68.4,60.2,67.97,Average
+S0350,Female,19,80,45,Yes,60.5,47.6,56.0,54.7,Average
+S0351,Male,30,53,40,No,41.4,30.6,32.6,34.87,Needs Improvement
+S0352,Female,25,70,51,No,41.5,36.6,43.4,40.5,Needs Improvement
+S0353,Female,29,75,64,Yes,76.1,63.2,65.5,68.27,Average
+S0354,Female,8,96,45,Yes,46.5,41.8,46.9,45.07,Needs Improvement
+S0355,Male,9,61,42,No,42.0,38.6,45.0,41.87,Needs Improvement
+S0356,Male,26,75,91,Yes,70.3,63.4,72.9,68.87,Average
+S0357,Female,8,67,59,No,47.1,37.4,48.1,44.2,Needs Improvement
+S0358,Male,2,56,73,No,51.4,54.9,44.6,50.3,Average
+S0359,Female,21,55,69,No,74.2,64.6,65.4,68.07,Average
+S0360,Male,25,68,83,Yes,62.1,70.7,68.6,67.13,Average
+S0361,Male,30,54,83,No,52.6,37.4,40.1,43.37,Needs Improvement
+S0362,Male,28,53,54,Yes,69.5,63.1,58.8,63.8,Average
+S0363,Female,4,67,90,No,69.2,66.6,62.2,66.0,Average
+S0364,Male,24,60,59,Yes,60.1,51.8,64.7,58.87,Average
+S0365,Female,26,78,90,No,48.1,64.8,70.2,61.03,Average
+S0366,Male,21,50,61,No,59.7,55.1,57.7,57.5,Average
+S0367,Female,25,65,42,Yes,42.3,72.6,61.3,58.73,Average
+S0368,Female,26,73,85,Yes,91.6,96.7,81.7,90.0,Excellent
+S0369,Female,14,99,36,Yes,42.7,28.2,37.5,36.13,Needs Improvement
+S0370,Male,2,82,85,Yes,57.0,70.0,48.5,58.5,Average
+S0371,Female,14,94,37,Yes,47.3,46.3,53.7,49.1,Average
+S0372,Male,7,67,48,No,28.7,47.5,39.4,38.53,Needs Improvement
+S0373,Female,4,72,74,Yes,40.0,45.9,26.8,37.57,Needs Improvement
+S0374,Female,4,71,97,No,58.0,50.3,55.8,54.7,Average
+S0375,Male,21,95,61,No,63.1,70.5,66.9,66.83,Average
+S0376,Female,16,98,42,Yes,53.3,51.8,51.0,52.03,Average
+S0377,Male,17,99,50,No,77.0,62.0,56.1,65.03,Average
+S0378,Male,23,88,94,No,77.1,73.1,74.2,74.8,Good
+S0379,Female,17,75,82,No,80.2,82.4,66.4,76.33,Good
+S0380,Female,19,77,41,Yes,47.5,42.2,31.8,40.5,Needs Improvement
+S0381,Female,3,100,60,Yes,54.1,42.4,41.6,46.03,Needs Improvement
+S0382,Male,26,64,52,Yes,53.8,63.9,59.7,59.13,Average
+S0383,Male,14,67,46,No,36.7,55.7,61.2,51.2,Average
+S0384,Female,5,95,90,No,46.0,53.1,52.0,50.37,Average
+S0385,Female,25,69,75,No,58.7,47.7,44.2,50.2,Average
+S0386,Female,23,61,46,Yes,26.7,25.1,32.1,27.97,Needs Improvement
+S0387,Female,2,78,77,No,47.1,43.8,49.9,46.93,Needs Improvement
+S0388,Male,6,66,62,Yes,29.2,29.1,35.1,31.13,Needs Improvement
+S0389,Male,1,95,39,No,45.6,41.4,38.4,41.8,Needs Improvement
+S0390,Female,9,96,64,Yes,64.1,66.7,53.4,61.4,Average
+S0391,Male,3,65,47,No,34.5,28.7,30.4,31.2,Needs Improvement
+S0392,Female,22,77,51,No,60.9,68.0,59.1,62.67,Average
+S0393,Female,16,100,93,Yes,67.7,78.9,72.9,73.17,Good
+S0394,Male,30,87,81,Yes,80.9,81.4,74.6,78.97,Good
+S0395,Male,23,60,43,No,44.0,45.7,50.2,46.63,Needs Improvement
+S0396,Male,19,80,91,Yes,46.2,74.1,45.3,55.2,Average
+S0397,Female,16,81,72,No,58.0,56.4,53.2,55.87,Average
+S0398,Female,2,83,92,No,65.2,63.9,59.8,62.97,Average
+S0399,Female,3,51,84,No,56.2,45.0,41.6,47.6,Needs Improvement
+S0400,Female,19,65,57,Yes,51.2,33.1,41.2,41.83,Needs Improvement
+S0401,Male,1,93,70,Yes,64.8,42.0,53.5,53.43,Average
+S0402,Male,2,62,70,Yes,25.9,38.0,19.4,27.77,Needs Improvement
+S0403,Female,7,65,82,No,59.4,55.6,63.1,59.37,Average
+S0404,Male,27,66,51,Yes,67.5,88.6,58.6,71.57,Good
+S0405,Female,14,59,56,Yes,65.6,39.2,50.8,51.87,Average
+S0406,Male,22,57,51,Yes,61.3,40.9,43.3,48.5,Needs Improvement
+S0407,Female,13,67,54,No,52.2,48.5,44.6,48.43,Needs Improvement
+S0408,Female,6,94,45,Yes,46.8,61.7,47.8,52.1,Average
+S0409,Male,12,50,37,No,25.9,32.6,33.9,30.8,Needs Improvement
+S0410,Female,3,64,97,No,59.8,58.8,55.0,57.87,Average
+S0411,Female,24,53,39,No,45.4,38.3,51.5,45.07,Needs Improvement
+S0412,Female,6,78,93,No,50.7,46.9,43.1,46.9,Needs Improvement
+S0413,Female,12,62,35,No,31.6,23.8,23.6,26.33,Needs Improvement
+S0414,Female,30,90,86,No,78.2,51.9,63.5,64.53,Average
+S0415,Female,18,79,56,Yes,42.8,46.2,45.2,44.73,Needs Improvement
+S0416,Male,14,89,69,No,25.9,25.0,39.3,30.07,Needs Improvement
+S0417,Male,17,82,53,No,62.0,47.9,62.2,57.37,Average
+S0418,Female,24,72,67,No,70.2,70.8,73.4,71.47,Good
+S0419,Female,8,93,64,No,63.8,56.8,57.7,59.43,Average
+S0420,Male,20,74,69,No,45.0,48.8,44.0,45.93,Needs Improvement
+S0421,Male,27,98,60,No,71.0,75.3,74.3,73.53,Good
+S0422,Male,18,100,70,No,80.8,82.4,77.2,80.13,Good
+S0423,Male,14,80,89,No,48.0,64.7,70.0,60.9,Average
+S0424,Male,5,84,63,Yes,44.2,57.0,43.8,48.33,Needs Improvement
+S0425,Female,8,63,58,Yes,31.2,26.4,25.9,27.83,Needs Improvement
+S0426,Female,29,91,43,Yes,58.8,65.6,65.7,63.37,Average
+S0427,Male,17,84,58,Yes,35.1,50.5,46.3,43.97,Needs Improvement
+S0428,Male,10,96,43,Yes,53.3,49.8,45.6,49.57,Average
+S0429,Female,13,63,47,No,38.0,26.9,20.8,28.57,Needs Improvement
+S0430,Male,18,90,97,Yes,74.9,72.5,72.1,73.17,Good
+S0431,Female,17,73,40,No,40.3,47.5,47.6,45.13,Needs Improvement
+S0432,Male,21,59,66,No,53.3,51.8,38.0,47.7,Needs Improvement
+S0433,Male,8,58,90,Yes,31.7,42.6,38.5,37.6,Needs Improvement
+S0434,Female,20,78,97,Yes,54.4,46.9,45.9,49.07,Average
+S0435,Female,14,66,44,Yes,34.8,35.7,44.5,38.33,Needs Improvement
+S0436,Female,29,55,45,No,39.9,38.4,51.7,43.33,Needs Improvement
+S0437,Male,5,71,59,Yes,26.9,37.8,24.6,29.77,Needs Improvement
+S0438,Male,5,83,71,No,51.9,53.9,51.7,52.5,Average
+S0439,Female,14,66,98,No,53.9,51.5,47.3,50.9,Average
+S0440,Female,16,98,48,No,49.6,52.0,42.5,48.03,Needs Improvement
+S0441,Male,21,89,45,Yes,47.2,45.9,52.8,48.63,Needs Improvement
+S0442,Female,13,76,51,Yes,62.7,44.6,60.8,56.03,Average
+S0443,Female,28,97,92,Yes,85.6,91.8,79.4,85.6,Excellent
+S0444,Female,15,72,36,Yes,36.7,37.3,47.9,40.63,Needs Improvement
+S0445,Male,4,57,60,Yes,37.3,40.1,34.3,37.23,Needs Improvement
+S0446,Male,4,51,42,No,9.8,21.7,13.9,15.13,Needs Improvement
+S0447,Female,30,97,45,No,66.3,73.4,68.5,69.4,Good
+S0448,Male,5,98,95,No,60.4,63.1,73.0,65.5,Average
+S0449,Male,29,87,35,No,36.8,43.8,56.4,45.67,Needs Improvement
+S0450,Female,9,55,56,Yes,40.3,48.4,43.8,44.17,Needs Improvement
+S0451,Male,3,64,95,No,39.1,41.5,32.2,37.6,Needs Improvement
+S0452,Male,10,52,75,No,62.4,66.4,39.2,56.0,Average
+S0453,Female,19,52,39,No,34.3,46.3,47.0,42.53,Needs Improvement
+S0454,Female,13,62,65,No,15.2,7.4,23.2,15.27,Needs Improvement
+S0455,Male,24,79,99,Yes,90.9,86.0,76.5,84.47,Excellent
+S0456,Male,19,53,61,Yes,34.9,41.0,25.8,33.9,Needs Improvement
+S0457,Female,13,100,69,Yes,49.4,67.2,55.3,57.3,Average
+S0458,Male,20,73,70,Yes,62.5,81.6,72.6,72.23,Good
+S0459,Male,30,63,78,No,68.8,56.4,65.3,63.5,Average
+S0460,Female,13,76,47,Yes,17.8,41.4,41.5,33.57,Needs Improvement
+S0461,Male,5,90,90,No,36.2,43.5,49.3,43.0,Needs Improvement
+S0462,Female,13,65,100,No,67.9,71.7,69.2,69.6,Good
+S0463,Male,26,52,44,Yes,44.7,23.6,40.2,36.17,Needs Improvement
+S0464,Female,7,52,89,Yes,55.7,53.6,52.9,54.07,Average
+S0465,Female,29,93,88,No,77.5,71.4,93.7,80.87,Good
+S0466,Male,18,55,83,No,55.6,54.8,49.9,53.43,Average
+S0467,Female,19,82,59,Yes,66.4,58.1,54.0,59.5,Average
+S0468,Male,10,69,65,Yes,35.8,42.1,43.0,40.3,Needs Improvement
+S0469,Female,28,89,90,No,83.0,72.3,94.3,83.2,Good
+S0470,Male,2,53,45,Yes,49.2,34.0,41.2,41.47,Needs Improvement
+S0471,Male,9,95,89,No,37.7,42.4,38.7,39.6,Needs Improvement
+S0472,Male,13,85,95,Yes,68.9,68.6,70.1,69.2,Good
+S0473,Female,15,72,80,Yes,44.0,60.5,49.0,51.17,Average
+S0474,Female,15,60,57,No,58.0,65.7,57.9,60.53,Average
+S0475,Male,5,99,71,No,41.1,36.8,35.1,37.67,Needs Improvement
+S0476,Male,7,65,38,No,41.3,26.1,51.1,39.5,Needs Improvement
+S0477,Male,3,75,96,Yes,47.6,40.3,50.6,46.17,Needs Improvement
+S0478,Female,18,70,57,No,44.5,53.9,43.2,47.2,Needs Improvement
+S0479,Male,11,61,38,No,38.9,28.7,30.2,32.6,Needs Improvement
+S0480,Female,17,71,87,No,54.5,49.4,66.9,56.93,Average
+S0481,Female,18,57,78,Yes,46.2,58.9,57.6,54.23,Average
+S0482,Male,22,50,76,Yes,61.5,67.6,57.7,62.27,Average
+S0483,Female,17,64,38,No,26.3,33.3,33.5,31.03,Needs Improvement
+S0484,Male,20,55,84,Yes,46.9,39.4,39.5,41.93,Needs Improvement
+S0485,Female,18,71,77,No,61.8,55.0,62.7,59.83,Average
+S0486,Female,20,94,87,Yes,73.8,57.3,53.6,61.57,Average
+S0487,Female,19,58,89,No,52.2,67.6,52.3,57.37,Average
+S0488,Male,10,50,48,No,26.8,33.4,35.9,32.03,Needs Improvement
+S0489,Male,8,55,48,No,35.4,35.8,26.8,32.67,Needs Improvement
+S0490,Male,24,75,95,No,92.9,96.6,87.0,92.17,Excellent
+S0491,Male,11,64,70,Yes,46.0,40.4,40.3,42.23,Needs Improvement
+S0492,Male,17,74,63,No,53.3,62.2,60.3,58.6,Average
+S0493,Male,6,51,53,No,25.7,19.5,33.5,26.23,Needs Improvement
+S0494,Male,13,66,77,No,42.8,28.5,52.9,41.4,Needs Improvement
+S0495,Female,16,70,84,Yes,58.5,44.4,70.2,57.7,Average
+S0496,Female,19,71,35,No,37.6,28.9,31.9,32.8,Needs Improvement
+S0497,Female,16,78,71,No,71.4,68.7,65.8,68.63,Average
+S0498,Female,11,89,100,No,52.2,57.3,50.8,53.43,Average
+S0499,Male,29,73,53,Yes,44.8,59.2,56.3,53.43,Average
+S0500,Female,16,92,53,No,36.2,65.3,54.3,51.93,Average
